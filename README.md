@@ -1,16 +1,22 @@
-# project
+# Percentage Calculator
 
-A new Flutter project.
+This is a simple calculator app developed using Flutter. The user can calculate percentages by entering a number and its percentage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User-friendly interface
+- Simple percentage calculation
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone or download this project.
+2. Run `flutter pub get` command in the terminal to install the necessary dependencies.
+3. Use `flutter run` command to run the application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developer
+
+- Doğukan Akçay - [GitHub](https://github.com/akcaydogukan) - [LinkedIn](https://www.linkedin.com/in/dogukanakcay/)
+
+## Contributing
+
+To contribute, please fork and send a pull request.
